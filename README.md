@@ -4,6 +4,8 @@ There is parser for https://www.myscore.com.ua/
 At this time, information on completed hockey and soccer games for today is provided.
 
 For this app you should use Python3.6+
+For the parser you need a chromedriver
+http://chromedriver.chromium.org/downloads
 
 For install required packages use command:
 $ pip install -r requirements.txt
