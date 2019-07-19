@@ -1,2 +1,5 @@
 venv/
 log.log
+.idea/
+chromedriver.exe
+games.sqlite
